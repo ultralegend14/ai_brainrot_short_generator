@@ -1,0 +1,5 @@
+streamlit
+yt-dlp
+langchain
+langchain-groq
+imageio-ffmpeg
